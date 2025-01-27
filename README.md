@@ -25,6 +25,25 @@ I am a Computer Science graduate with a strong passion for research and software
 - **Development Tools:** Visual Studio Code, Visual Studio, NetBeans  
 - **Other Skills:** Object-Oriented Programming (OOP), Data Structures  
 
+---
+
+## 📊 GitHub Stats
+![Tahmid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tahmid007WEB&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tahmid007WEB&layout=compact&theme=radical)
+
+---
+
+## 🛡️ Tech Stack Badges
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+
+---
+
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/tahmid-sattar-aothoi)  
 - 🌐 [GitHub](https://github.com/Tahmid007WEB)  
